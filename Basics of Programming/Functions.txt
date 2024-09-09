@@ -1,0 +1,23 @@
+Already created modules of code that accomplish a particular task
+
+
+Methods with no return type:
+
+public void add(int num1,int num2){
+	int sum = num1 + num2 ;
+	System.out.println("Sum of two numbers are :" + sum);
+
+Methods with return type:
+
+public int add (int num1, int num2){
+	int sum =num1 + num2;
+	return sum;
+}
+
+
+phyton  [ def my_function(): / print("Hello from a function") ]
+java	[ static void myMethod() { /  //code to be executed / }} ]
+c++	[ void myFunction() { / //code to be executed / }} ]
+c	[ void hello(){ / printf ("hello c"); / } ]	
+	
+

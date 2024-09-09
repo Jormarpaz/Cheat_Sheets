@@ -1,0 +1,19 @@
+Tipos de condicionales:
+
+--If--
+
+If A > 80 Then
+
+surprise 
+
+Else
+
+not surprise
+
+--EndIf--
+
+
+Phyton  [ a = 434 / b =37 / if b>a: / print ("B is greater than A") / elif a==b: / print ("a and b are equal") / else : print ("a is greater than b") ]
+Java	[ int time = 17; / if (time < 10) { / System.out.println("Good morning"); / } else if (time < 20) { / System.out.println("Good day"); / } else { / System.out.println("Good Evening"); }  
+C++	[ int time = 22; / if (time < 10) { / cout << "Good morning" ; / } else if (time < 20) { / cout << "Good day" ; / } else { / cout << "Good Evening"; / } / return 0; / }
+C	[ int age; / printf("Enter your age?"); / scanf("%d",&age); / if (age >=18){ / printf ("You are eligible to vote..."); / } / else ( / printf ("Sorry... you cant vote"); / }}

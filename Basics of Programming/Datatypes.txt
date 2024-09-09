@@ -1,0 +1,13 @@
+What information a variable can hold:
+
+Numbers (8,0)
+Decimal (9.6,10.4)
+Booleans (True, False)
+Characters (a,b,c,d,e...)
+Strings (Hola,Bienvenido...)
+
+
+Phyton  [ string--str ] [ number--int,decimal--float ] [ booleans--bool ] [binary -- bytes,bytearray...]
+Java    [ byte,short,int,long---number (segun el tamaño)] [ float,double---decimal ] [boolean---True,False] [ char---characters]
+C++     [ int---number ] [ float,double---decimal ] [boolean---True,False ] [ char---characters ]
+C	[ int,char,float,double---Basics ] 

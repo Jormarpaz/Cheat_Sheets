@@ -1,0 +1,14 @@
+Iteration es cada vez que se repite un proceso o secuencia
+
+for (int i=1; i<=10;i++){ 		int i=1;				int i=1;
+	System.out.println(i);		  while (i<=10){			do{
+}						System.out.println(i);			System.out.prinln(i);
+					i++;					i++;
+					}					}while(i<=10);
+									       }
+
+
+Phyton  [ fruits = ["apple, "banana","cherry"] / for x in fruits : / print(x) ]
+Java	[ for (int i = 0; i < 5; i++) { / System.out.println(i); / } ]
+C++	[ for (int i = 0; i < 5; i++) { / cout << i << "\n"; / } ]
+C	[ for (i=1;i<=10;i++){ / printf("%d \n",i); / } ]

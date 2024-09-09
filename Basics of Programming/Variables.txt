@@ -1,0 +1,17 @@
+Variables;
+
+Nombre simbólico para algún tipo de información, contenedor virtual cuyo contenido puede cambiar con el tiempo
+
+int roll = 10; // primero se marca el tipo de variable, luego el nombre que le ponemos, y por último la cantidad
+
+Tipos de variables == Int(cantidad), String(cadena de letras)
+
+Cómo se escribe según el lenguaje
+
+Phyton [ x = 5 / y = "Ritwik" / print(x) / print(y) ]			//No necesita especificar
+Java   [ String name = "Ritwik" / System.out.println(name) ]		//Necesita especificar 
+C++    [ int myNum = 15; / cout << myNum; ]
+C      [ int a = 10, b = 20; / float f = 20.8; / char c = 'A'; ]	//Se pueden escribir variables si son del mismo tipo, float es decimal
+	 
+
+Principalmente cambia el modo de imprimir algo en pantalla

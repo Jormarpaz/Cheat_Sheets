@@ -1,4 +1,5 @@
 Create a Repository
+
     Create a new local repository:
     $ git init [project name]
 ​
@@ -9,6 +10,7 @@ Create a Repository
     $ git clone git_url my_directory
 
 Make a change
+
     Show modified files in working directory, staged for your next commit:
     $ git status
     ​
@@ -40,6 +42,7 @@ Make a change
     $ git rebase [branch]
 
 Working with Branches
+
     List all local branches:
     $ git branch
     ​
@@ -60,6 +63,7 @@ Working with Branches
     $ git merge branchA
 
 Temporary Commits
+
     Save modified and staged changes:
     $ git stash
     ​
@@ -70,6 +74,7 @@ Temporary Commits
     $ git stash pop
 
 Show us
+
     Search change by content:
     $ git log -S'<a term in the source>'
     ​
@@ -80,6 +85,7 @@ Show us
     $ git log --pretty=oneline --graph --decorate --all
 
 Rewriting history
+
     Let's say you just committed and you made a mistake in your commit log message. 
     Running this command when there is nothing staged lets you edit the previous commit’s message without altering its snapshot.
     Premature commits happen all the time in the course of your everyday development. 
@@ -89,6 +95,7 @@ Rewriting history
     $ git commit --amend -m "new message"
 
 Rename branch
+
     Renamed to new_name:
     $ git branch -m <new_name>
     ​

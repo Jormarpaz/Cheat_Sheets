@@ -1,11 +1,14 @@
-# 🎃 Explanation:
+# 🎃 Explanation
+
 Conjunto de archivos, bien `.PDFs` o `.TXTs` de ayuda personal, donde se incluyen :
+
 * CheetSheets
 * Básicos sobre programación
 * Consejos
 * Ideas sobre proyectos
 * Introspección
 * ...
+
 ***
 Iré añadiendo más archivos conforme los vaya encontrando, pues al final el objetivo es hacer una especie de __Biblioteca de Alejandría__ personal.
 ***
